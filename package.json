@@ -1,0 +1,13 @@
+{
+  "name": "chat-discord-bridge",
+  "version": "1.0.0",
+  "description": "Firebase 채팅 ↔ Discord 연동 봇",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "firebase-admin": "^12.0.0"
+  }
+}
